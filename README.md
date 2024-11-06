@@ -4,7 +4,7 @@
 
 **Date:** 05/11/2024
 
-<img src="project/images/banner.jpeg" alt="Banner Image" width="512"/>
+<img src="project/images/banner.jpeg" alt="Banner Image"/>
 
 ---
 
