@@ -1,0 +1,23 @@
+\contentsline {section}{\numberline {1}Summary}{2}{section.1}%
+\contentsline {section}{\numberline {2}Requirements \& Configuration}{3}{section.2}%
+\contentsline {section}{\numberline {3}ELT Process}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}DB Setup}{5}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Extract}{5}{subsection.3.2}%
+\contentsline {paragraph}{Accidents by Driver Cause Data Set}{5}{section*.3}%
+\contentsline {paragraph}{Population by District}{7}{section*.4}%
+\contentsline {subsection}{\numberline {3.3}Load}{9}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Transform}{11}{subsection.3.4}%
+\contentsline {paragraph}{Quality Assessment: accident data}{11}{section*.5}%
+\contentsline {paragraph}{Quality Assessment: population data}{14}{section*.6}%
+\contentsline {paragraph}{Managing location data as GeoJSON}{18}{section*.7}%
+\contentsline {subsection}{\numberline {3.5}Datastructure}{20}{subsection.3.5}%
+\contentsline {paragraph}{Traffic Accidents Collection}{20}{section*.8}%
+\contentsline {paragraph}{Population Data Collection}{20}{section*.9}%
+\contentsline {section}{\numberline {4}Data analysis}{21}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Where in the city are accidents recorded?}{21}{subsection.4.1}%
+\contentsline {paragraph}{How many accidents have been recorded in the vicinity of a touristic landmark, the Sagrada Família?}{26}{section*.12}%
+\contentsline {subsection}{\numberline {4.2}Do more accidents happen in more populous neighborhoods?}{29}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}What are the temporal patterns of the recorded street accidents?}{33}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Does a higher rate of male to female inhabitants per neighborhood correlate with accident counts?}{40}{subsection.4.4}%
+\contentsline {section}{\numberline {5}Conclusions}{46}{section.5}%
+\contentsline {section}{\numberline {6}Learnings}{47}{section.6}%
