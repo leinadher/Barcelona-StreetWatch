@@ -1,4 +1,4 @@
-# 🚦 Barcelona StreetWatch - Traffic Accident Analysis
+# 🚦 Barcelona StreetWatch - Traffic Accident Analysis in MongoDB
 
 **Author:** Daniel Herrera
 
