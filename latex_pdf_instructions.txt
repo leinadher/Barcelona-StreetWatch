@@ -1,0 +1,2 @@
+jupyter nbconvert --to latex project-traffic_accidents.ipynb
+pdflatex project-traffic_accidents.tex
